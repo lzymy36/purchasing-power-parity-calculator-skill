@@ -1,2 +1,18 @@
-# purchasing-power-parity-calculator-skill
-A skill for Money and Banking course: Purchasing Power Parity calculator
+# Purchasing Power Parity Calculator Skill
+货币银行学课程Skill项目
+
+## 项目简介
+本Skill实现购买力平价(PPP)简易计算工具。根据购买力平价理论，输入两国物价水平，计算理论均衡汇率，对比真实汇率，判断货币被高估还是低估，用来理解长期汇率的决定原理。
+
+## 功能介绍
+1. 输入本国物价、外国物价，计算购买力平价理论汇率
+2. 对比市场实际汇率，自动判断：本币高估 / 本币低估
+3. 附带知识点讲解购买力平价的假设条件与局限性
+
+## 货币银行学相关知识点
+1. 购买力平价（PPP）：长期汇率由两国货币购买力之比决定
+2. 绝对购买力平价公式：$E_{PPP}=P_{home}/P_{foreign}$
+3. 局限性：忽略贸易壁垒、非贸易品、国际资本流动，短期汇率通常不符合PPP
+
+## 使用说明
+输入国内外物价指数，得到理论汇率，学习长期汇率决定逻辑。
